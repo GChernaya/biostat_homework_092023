@@ -22,7 +22,6 @@ library(car)
 library(corrplot)
 library(ROCR)
 
-
 ```
 
 # Чтение данных +
